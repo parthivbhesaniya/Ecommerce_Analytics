@@ -104,6 +104,8 @@ Ecommerce_Analytics/
 
 The repository also includes an interactive dashboard in [app.py](app.py). It reads the CSV files directly, so PostgreSQL is not required to explore the dashboard. The app includes sales, customer, operations, and payment views with date, state, and order-status filters.
 
+**Live dashboard:** [Open the deployed Streamlit app](https://commerce-analytics-byparthiv.streamlit.app)
+
 Install the dashboard dependencies and start it with:
 
 ```bash
@@ -133,5 +135,4 @@ This project turns raw e-commerce transaction data into a business intelligence 
 - and seller-level performance evaluation.
 
 It is a complete business analytics workflow covering data loading, SQL analysis, and dashboard-based storytelling.
-# Ecommerce_Analytics
-# Ecommerce_Analytics
+
